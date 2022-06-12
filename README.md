@@ -1,2 +1,2 @@
 # CoffeCrave
-Adds coffee to Minecraft
+I made this only for the issue tracker ;)
